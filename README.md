@@ -1,2 +1,1 @@
-#dummy-repo-sih
-porpouse is to practice some git skills
+Goal is to practice some git skills
